@@ -11,7 +11,7 @@ We made a small modification to the implementation to see a change of 4% in accu
 Next Steps:
 
 1. Implement a bi-gram model of the same
-2. 
+
 2. Implement n-gram model after bi-gram model is successful.
 
 For errors and comments write to:
